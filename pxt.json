@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Joy-Car": "github:joy-it/joy-car#1.1.2"
     },
     "files": [
         "main.blocks",
